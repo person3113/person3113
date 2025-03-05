@@ -1,4 +1,5 @@
-## Hi there 👋
+# 프로필
+- 관심사: 백엔드(자바, 스프링)
 
 <!--
 **person3113/person3113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
